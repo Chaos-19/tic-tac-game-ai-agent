@@ -16,7 +16,7 @@ Welcome to the Tic-Tac-Toe Game AI Agent repository! This project implements a T
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/tictactoe-game-ai-agent.git
+https://github.com/Chaos-19/tic-tac-game-ai-agent.git
 ```
 
 2. Open the index.html file in your preferred web browser.
