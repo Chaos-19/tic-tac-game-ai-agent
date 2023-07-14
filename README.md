@@ -1,5 +1,5 @@
 
-# Tic-Tac-Toe Game AI Agent
+# Tic-Tac-Game AI Agent
 
 Welcome to the Tic-Tac-Toe Game AI Agent repository! This project implements a Tic-Tac-Toe game with an AI agent that allows you to play against it. The AI agent is designed to make intelligent moves and provide a challenge for players.
 
@@ -9,7 +9,7 @@ Welcome to the Tic-Tac-Toe Game AI Agent repository! This project implements a T
 - The game can be restarted while preserving the score.
 - Supports a standard Tic-Tac-Toe game board (3x3 grid).
 - Implements the basic rules of Tic-Tac-Toe, including win and draw conditions.
-# The AI agent employs a smart strategy to make optimal moves.
+
 
 ## How to Play
 
